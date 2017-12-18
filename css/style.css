@@ -2,14 +2,12 @@
 @import url('https://fonts.googleapis.com/css?family=Clicker+Script');
 /* This is a comment! */
 
-/*
-CSS Syntax
+/* CSS Syntax
 
 selector {
   property: value;
   property: value;
-}
-*/
+} */
 
 /* Type selector */
 /* select all <p> */
@@ -48,3 +46,5 @@ figcaption {
 #logo h2 {
   font-family: 'Elsie Swash Caps', cursive;
 }
+
+/* Pseudo Class selectors */
