@@ -29,7 +29,7 @@ figcaption {
 }
 
 /* Class selector (applied to as many elements as you'd like) */
-.mlik-text { /* select elements with the class="milk-text" */
+.milk-text { /* select elements with the class="milk-text" */
   font: bold 2.63em 'Elsie Swash Caps', cursive;
   text-shadow: 0 2px 3px #000;
 }
