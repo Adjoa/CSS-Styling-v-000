@@ -28,8 +28,8 @@ figcaption {
   text-align: right;
 }
 
-/* Class selecto (applied to as many elements as you like) */
-.mlik-text {
+/* Class selector (applied to as many elements as you'd like) */
+.mlik-text { /* select elements with the class="milk-text" */
   font: bold 2.63m 'Elsie Swash Caps', cursive;
   text-shadow: 0 2px 3px #000;
 }
