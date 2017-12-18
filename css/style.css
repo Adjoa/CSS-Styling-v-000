@@ -11,7 +11,7 @@ selector {
 }
 */
 
-/* Type Selector */
+/* Type selector */
 /* select all <p> */
 p {
   font-size: 16px;  /* 16px, ?pt, 100%, 1em */
@@ -34,3 +34,5 @@ figcaption {
   color: white;
   text-shadow: 0 2px 3px #000;
 }
+
+/* ID selector (apply to one unique element per page)*/
